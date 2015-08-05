@@ -7,7 +7,7 @@ See my list of publications in [Google scholar](https://scholar.google.co.uk/cit
 Thesis
 =======
 **Implicit Shape Representation for Efficient 2D/3D Tracking and Reconstruction**  
-[[bibtex]]() [[pdf]]() [[Oxford Archive]](http://ora.ox.ac.uk/objects/uuid:c70dc663-ee7c-4100-b492-3a85bf8640d1) [[pdf]]()
+[[bibtex]]() [[pdf]](pdfs/thesis.pdf) [[Oxford Archive]](http://ora.ox.ac.uk/objects/uuid:c70dc663-ee7c-4100-b492-3a85bf8640d1)
 
 2015
 =======
@@ -62,19 +62,19 @@ M Pirovano, **CY Ren**, I Frosio, PL Lanzi, VA Prisacariu, DW Murray, NA Borghes
 - **A Unified Energy Minimization Framework for Model Fitting in Depth**  
 **CY Ren**, ID Reid  
 *2nd Workshop on Consumer Depth Cameras for Computer Vision in conjunction with ECCV (ECCVW-CDC4CV)*  
-[[bibtex]]() [[pdf]]()
+[[bibtex]]() [[pdf]]()[[video]](https://www.youtube.com/watch?v=Xh6Lyc_AaO8)
 
 2011
 =======
 - **gSLIC: a real-time implementation of SLIC superpixel segmentation**  
 **CY Ren**, ID Reid
 *Oxford Department of Engineering Science Technical Report*
-[[bibtex]]() [[pdf]]() [[code]](https://github.com/carlren/gSLIC2)
+[[bibtex]]() [[pdf]]() [[code]](https://github.com/carlren/gSLIC2) [[video]](https://www.youtube.com/watch?v=2S6qJiORYWk)  
 
 - **Regressing Local to Global Shape Properties for Online Segmentation and Tracking**  
 **CY Ren**, VA Prisacariu, ID Reid  
 the 22nd British Machine Vision Conference (BMVC)  
-[[bibtex]]() [[pdf]]()
+[[bibtex]]() [[pdf]]()[[talk]]()
 
 2010
 =======
