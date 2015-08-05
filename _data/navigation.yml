@@ -1,0 +1,14 @@
+# Site navigation links
+
+- title: Home
+  url: /index.html
+
+- title: Publications
+  url: /publications.html
+
+- title: Research
+  url: /research.html
+
+- title: Code
+  url: /code.html
+

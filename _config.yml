@@ -1,33 +1,43 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+# Site wide configuration
 
-paginate: 10 # pagination based on number of posts
-paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
+title:            
+locale:           en_US
+url: 
+
+
+# Jekyll configuration
+
+markdown:    kramdown
 highlighter: pygments
-markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
 
-defaults:
-  -
-    scope:
-      path: "" # empty string for all files
-    values:
-      title: dbyll
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
 
-description: Stylish Jekyll Theme
-author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
 
-rss_path: feed.xml
-categories_path: categories.html
-tags_path: tags.html
+# Site owner
+owner:
+  name: Carl Yuheng Ren
+  avatar: bio.jpg
+  bio: "Computer Vision Researcher, PhD"
+  email: ren@carlyuheng.com
+  disqus-shortname:
+  google:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: carlren
+  youtube: yuhengren
 
-BASE_PATH:
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
