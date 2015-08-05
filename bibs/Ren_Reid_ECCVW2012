@@ -1,0 +1,8 @@
+@incollection{Ren_Reid:ECCV2012,
+	year={2012},
+	booktitle={Computer Vision -- ECCV 2012. Workshops and Demonstrations},
+	title={A Unified Energy Minimization Framework for Model Fitting in Depth},
+	publisher={Springer Berlin Heidelberg},
+	author={Ren, C. Y. and Reid, I.},
+	pages={72-82},
+}
