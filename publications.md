@@ -21,7 +21,7 @@ O Kähler, VA Prisacariu, **CY Ren**, X Sun, PHS Torr, DW Murray
 
 - **SemanticPaint: Interactive Segmentation and Learning of 3D Worlds**  
 S Golodetz, M Sapienza, J Valentin, V Vineet, MM Cheng, VA Prisacariu, O Kähler, **CY Ren**, A Arnab, SL Hicks, DW Murray, S Izadi, PHS Torr  
-*ACM SIGGRAPH 2015 Emerging Technologies*
+*ACM SIGGRAPH 2015 Emerging Technologies*  
 [[bibtex]](bib/semanticpaint.bib)
 [[conference link]](http://s2015.siggraph.org/attendees/emerging-technologies/events/semanticpaint-interactive-segmentation-and-learning-3d-worlds)
 
