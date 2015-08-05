@@ -30,7 +30,7 @@ S Golodetz, M Sapienza, J Valentin, V Vineet, MM Cheng, VA Prisacariu, O Kähler
 - **3D Tracking of Multiple Objects with Identical Appearance Using RGB-D Input**  
 **CY Ren**, VA Prisacariu, O Kähler, ID Reid, DW Murray  
 *2nd International Conference on 3D Vision (3DV) 2014*  
-**Best Paper Award**  
+**Best Paper Award**   
 [[bibtex]](bibs/ren_3dv_2014.bib)
 [[pdf]](pdfs/ren_3dv_2014.pdf)
 
