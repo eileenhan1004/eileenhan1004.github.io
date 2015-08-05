@@ -69,7 +69,7 @@ M Pirovano, **CY Ren**, I Frosio, PL Lanzi, VA Prisacariu, DW Murray, NA Borghes
 - **gSLIC: a real-time implementation of SLIC superpixel segmentation**  
 **CY Ren**, ID Reid
 *Oxford Department of Engineering Science Technical Report*
-[[bibtex]]() [[pdf]]() [[code]]()
+[[bibtex]]() [[pdf]]() [[code]](https://github.com/carlren/gSLIC2)
 
 - **Regressing Local to Global Shape Properties for Online Segmentation and Tracking**  
 **CY Ren**, VA Prisacariu, ID Reid  
