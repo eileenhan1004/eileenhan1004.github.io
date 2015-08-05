@@ -1,22 +1,33 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-# Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
-paginate:            5
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+disqus: dbyll
+google_analytics: dbyll
 
-# About/contact
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: dbyll
+
+description: Stylish Jekyll Theme
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name: dbyll
+  email: dbyll@ismaildemirbilek.com
+  github: dbtek
+  twitter: dbtek
+  pinterest: asd123
+  linkedin: asd123
+  bio: Your stylish, minimalist theme!
+  email_md5: 726351295ec82e145928582f595aa3aa
 
-# Custom vars
-version:             1.0.0
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
