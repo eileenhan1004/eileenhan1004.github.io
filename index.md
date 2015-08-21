@@ -18,4 +18,5 @@ OX1 3PJ, UK
 
 
 ##News
+- **Aug. 2015**: LibISR: real-time 3D model-based tracking, has a public release now on [GitHub](https://github.com/carlren/LibISR).
 - **July. 2015**: Our paper *"Very High Frame Rate Volumetric Integration of Depth Images on Mobile Devices"* got accepted by ISMAR 2015.
