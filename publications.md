@@ -99,7 +99,7 @@ the 22nd British Machine Vision Conference (BMVC)
 2010
 =======
 - **Diversifying Landmark Image Search Results by Learning Interested Views from Community Photos**
-Y Ren, M Yu, XJ Wang, L Zhang, WY Ma  
+**Y Ren**, M Yu, XJ Wang, L Zhang, WY Ma  
 *19th International World Wide Web Conference (WWW)*  
 [[bibtex]](bibs/Ren_WWW_2010.bib)
 [[pdf]](pdfs/www10.pdf)
