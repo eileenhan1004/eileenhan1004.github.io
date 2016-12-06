@@ -12,7 +12,7 @@ Thesis
 
 2016
 =======
-- **Very High Frame Rate Volumetric Integration of Depth Images on Mobile Devices**  
+- **Real-time Full DoF Tracking Using 3D Signed Distance Functions**  
 **CY Ren**, VA Prisacariu, O Kähler, ID Reid, DW Murray  
 *2013 International Conference on Computer Vision (ICCV)*  
 [[bibtex]](bibs/Ren_IJCV_2016.bib)
