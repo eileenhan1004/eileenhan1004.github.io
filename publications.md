@@ -14,7 +14,7 @@ Thesis
 =======
 - **Real-time Full DoF Tracking Using 3D Signed Distance Functions**  
 **CY Ren**, VA Prisacariu, O Kähler, ID Reid, DW Murray  
-*2013 International Conference on Computer Vision (ICCV)*  
+*International Journal of Computer Vision*  
 [[bibtex]](bibs/Ren_IJCV_2016.bib)
 
 
