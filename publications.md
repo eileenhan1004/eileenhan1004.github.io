@@ -91,14 +91,14 @@ M Pirovano, **CY Ren**, I Frosio, PL Lanzi, VA Prisacariu, DW Murray, NA Borghes
 
 - **Regressing Local to Global Shape Properties for Online Segmentation and Tracking**  
 **CY Ren**, VA Prisacariu, ID Reid  
-the 22nd British Machine Vision Conference (BMVC)  
+*the 22nd British Machine Vision Conference (BMVC)*
 [[bibtex]](bibs/Ren_BMVC_2011.bib)
 [[pdf]](pdfs/Ren_Prisacariu_Reid_BMVC2011.pdf)
 [[talk]](http://www.bmva.org/bmvc/2011/proceedings/paper11/)
 
 2010
 =======
-- **Diversifying Landmark Image Search Results by Learning Interested Views from Community Photos**
+- **Diversifying Landmark Image Search Results by Learning Interested Views from Community Photos**  
 **Y Ren**, M Yu, XJ Wang, L Zhang, WY Ma  
 *19th International World Wide Web Conference (WWW)*  
 [[bibtex]](bibs/Ren_WWW_2010.bib)
