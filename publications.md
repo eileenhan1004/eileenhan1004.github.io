@@ -10,6 +10,14 @@ Thesis
 [[pdf]](pdfs/thesis.pdf)
 [[Oxford Archive]](http://ora.ox.ac.uk/objects/uuid:c70dc663-ee7c-4100-b492-3a85bf8640d1)
 
+2016
+=======
+- **Very High Frame Rate Volumetric Integration of Depth Images on Mobile Devices**  
+**CY Ren**, VA Prisacariu, O Kähler, ID Reid, DW Murray  
+*2013 International Conference on Computer Vision (ICCV)*  
+[[bibtex]](bibs/Ren_IJCV_2016.bib)
+
+
 2015
 =======
 - **Very High Frame Rate Volumetric Integration of Depth Images on Mobile Devices**  
