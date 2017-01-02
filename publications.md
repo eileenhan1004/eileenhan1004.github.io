@@ -5,13 +5,13 @@ layout: page
 See my list of publications in [Google scholar](https://scholar.google.co.uk/citations?user=Mf6PAuQAAAAJ&hl=en).
 
 Thesis
-=======
+-------
 **Implicit Shape Representation for Efficient 2D/3D Tracking and Reconstruction**  
 [[pdf]](pdfs/thesis.pdf)
 [[Oxford Archive]](http://ora.ox.ac.uk/objects/uuid:c70dc663-ee7c-4100-b492-3a85bf8640d1)
 
 2016
-=======
+-------
 - **Real-time Full DoF Tracking Using 3D Signed Distance Functions**  
 **CY Ren**, VA Prisacariu, O Kähler, ID Reid, DW Murray  
 *International Journal of Computer Vision*  
@@ -19,7 +19,7 @@ Thesis
 
 
 2015
-=======
+-------
 - **Very High Frame Rate Volumetric Integration of Depth Images on Mobile Devices**  
 O Kähler, VA Prisacariu, **CY Ren**, X Sun, PHS Torr, DW Murray  
 *IEEE Transactions on Visualization and Computer Graphics (Proceedings International Symposium on Mixed and Augmented Reality 2015), 21(11)*  
@@ -34,7 +34,7 @@ S Golodetz, M Sapienza, J Valentin, V Vineet, MM Cheng, VA Prisacariu, O Kähler
 [[conference link]](http://s2015.siggraph.org/attendees/emerging-technologies/events/semanticpaint-interactive-segmentation-and-learning-3d-worlds)
 
 2014
-=======
+-------
 - **3D Tracking of Multiple Objects with Identical Appearance Using RGB-D Input**  
 **CY Ren**, VA Prisacariu, O Kähler, ID Reid, DW Murray  
 *2nd International Conference on 3D Vision (3DV) 2014*  
@@ -57,7 +57,7 @@ VA Prisacariu, O Kähler, MM Cheng, **CY Ren** J Valentin, PHS Torr, ID Reid, DW
 [[pdf]](pdfs/ren_ijcv_2014.pdf)
 
 2013
-=======
+-------
 - **STAR3D: Simultaneous Tracking and Reconstruction of 3D Objects Using RGB-D Data**  
 **CY Ren**, VA Prisacariu, DW Murray, ID Reid  
 *2013 International Conference on Computer Vision (ICCV)*  
@@ -79,7 +79,7 @@ M Pirovano, **CY Ren**, I Frosio, PL Lanzi, VA Prisacariu, DW Murray, NA Borghes
 [[publisher]](http://link.springer.com/chapter/10.1007%2F978-3-642-41181-6_65)
 
 2012
-=======
+-------
 - **A Unified Energy Minimization Framework for Model Fitting in Depth**  
 **CY Ren**, ID Reid  
 *2nd Workshop on Consumer Depth Cameras for Computer Vision in conjunction with ECCV (ECCVW-CDC4CV)*  
@@ -88,7 +88,7 @@ M Pirovano, **CY Ren**, I Frosio, PL Lanzi, VA Prisacariu, DW Murray, NA Borghes
 [[video]](https://www.youtube.com/watch?v=Xh6Lyc_AaO8)
 
 2011
-=======
+-------
 - **gSLIC: a real-time implementation of SLIC superpixel segmentation**  
 **CY Ren**, ID Reid
 *Oxford Department of Engineering Science Technical Report*  
@@ -105,7 +105,7 @@ M Pirovano, **CY Ren**, I Frosio, PL Lanzi, VA Prisacariu, DW Murray, NA Borghes
 [[talk]](http://www.bmva.org/bmvc/2011/proceedings/paper11/)
 
 2010
-=======
+-------
 - **Diversifying Landmark Image Search Results by Learning Interested Views from Community Photos**  
 **Y Ren**, M Yu, XJ Wang, L Zhang, WY Ma  
 *19th International World Wide Web Conference (WWW)*  
