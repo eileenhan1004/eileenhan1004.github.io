@@ -1,5 +1,5 @@
 # Site wide configuration
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 title: 
 locale:           en_US
 url: 
