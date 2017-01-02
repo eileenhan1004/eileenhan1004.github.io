@@ -1,7 +1,8 @@
 ---
 layout: page
 ---
-###InfiniTAM: Very High Frame Rate Volumetric Integration of Depth Images on Mobile Devices
+InfiniTAM: Very High Frame Rate Volumetric Integration of Depth Images on Mobile Devices
+----
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FO0aEKg6qEg" frameborder="0" allowfullscreen></iframe>  
 
 {%highlight Tex%}
@@ -28,7 +29,8 @@ eprint = {1410.0925},
 year = 2014
 }
 {%endhighlight%}
-###Real-time 3D Tracking of Multiple Objects with Identical Appearance
+Real-time 3D Tracking of Multiple Objects with Identical Appearance
+----
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BSkUee3UdJY" frameborder="0" allowfullscreen></iframe>
 
 {%highlight Tex%}
@@ -43,7 +45,8 @@ pages={47-54}
 }
 {%endhighlight%}
 
-###STAR3D: Simultaneous Tracking And Reconstruction of 3D Objects Using RGB-D Data
+STAR3D: Simultaneous Tracking And Reconstruction of 3D Objects Using RGB-D Data
+----
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8ppQ4FtRNVc" frameborder="0" allowfullscreen></iframe>
 
 {%highlight Tex%}
@@ -58,7 +61,8 @@ doi={10.1109/ICCV.2013.197}
 }
 {%endhighlight%}
 
-###A Unified Energy Minimization Framework for Model Fitting in Depth
+A Unified Energy Minimization Framework for Model Fitting in Depth
+----
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Xh6Lyc_AaO8" frameborder="0" allowfullscreen></iframe>
 
 {%highlight Tex%}
