@@ -1,16 +1,7 @@
 # Site navigation links
 
-- title: Home
+- title: About
   url: /index.html
-
-- title: Publications
-  url: /publications.html
-
-- title: Videos
-  url: /video.html
-
-- title: Code
-  url: /code.html
 
 - title: Blog
   url: /posts/
