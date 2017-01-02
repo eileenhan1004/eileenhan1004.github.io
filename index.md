@@ -34,6 +34,7 @@ News
 
 Publications
 ====
+
 See my list of publications in [**Google scholar**](https://scholar.google.co.uk/citations?user=Mf6PAuQAAAAJ&hl=en).
 
 - **Implicit Shape Representation for Efficient 2D/3D Tracking and Reconstruction**  
