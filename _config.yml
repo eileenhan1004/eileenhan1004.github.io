@@ -1,5 +1,5 @@
 # Site wide configuration
-
+theme: minimal-mistakes-jekyll
 title: 
 locale:           en_US
 url: 
@@ -27,23 +27,45 @@ kramdown:
 
 
 # Site owner
-owner:
+author:
   name: Carl Yuheng Ren
   avatar: bio.jpg
   bio: "Computer Vision Researcher, PhD"
   email: ren@carlyuheng.com
-  disqus-shortname:
-  google:
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
   github: carlren
   youtube: yuhengren
+  weibo: carlyuheng
+  avatar: "/images/bio.jpg"
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Defaults
 defaults:

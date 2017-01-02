@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "New Year's Resolution - 新年的决心"
 categories: 
   - Life

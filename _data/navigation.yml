@@ -1,7 +1,6 @@
 # Site navigation links
-
-- title: About
+main:
+- title: "About"
   url: /index.html
-
-- title: Blog
-  url: /posts/
+- title: "Blog"
+  url: /year-archive/

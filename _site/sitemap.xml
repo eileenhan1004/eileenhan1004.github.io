@@ -1,27 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>/2015/08/05/test.html</loc>
-    <lastmod>2015-08-05T14:04:35-07:00</lastmod>
-  </url>
-  <url>
-    <loc>/code.html</loc>
-    <lastmod>2015-10-27T23:18:10-07:00</lastmod>
-  </url>
-  <url>
-    <loc>/</loc>
-    <lastmod>2015-10-27T23:18:10-07:00</lastmod>
-  </url>
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2015-10-27T23:18:10-07:00</lastmod>
-  </url>
-  <url>
-    <loc>/publications.html</loc>
-    <lastmod>2015-10-27T23:18:10-07:00</lastmod>
-  </url>
-  <url>
-    <loc>/video.html</loc>
-    <lastmod>2015-10-27T23:18:10-07:00</lastmod>
-  </url>
+<url>
+<loc>http://localhost:4000/life/2017/01/01/new-year-resolution.html</loc>
+<lastmod>2017-01-01T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/year-archive/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/CV_CN.pdf</loc>
+<lastmod>2017-01-01T21:31:57-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/CV_EN.pdf</loc>
+<lastmod>2016-07-25T10:22:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/Prisacariu-ICPR-2010.pdf</loc>
+<lastmod>2015-08-05T12:17:44-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/Ren_Prisacariu_Reid_BMVC2011.pdf</loc>
+<lastmod>2015-08-05T13:08:25-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/eccv2012_ws_id13_cr.pdf</loc>
+<lastmod>2015-08-05T12:59:56-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/gSLIC_report.pdf</loc>
+<lastmod>2015-08-05T13:02:18-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/prisacariu_accv_2012.pdf</loc>
+<lastmod>2015-08-05T12:17:44-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/prisacariu_reid_iccv2011_draft.pdf</loc>
+<lastmod>2015-08-05T12:17:44-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/prisacariu_reid_ijcv2012_draft.pdf</loc>
+<lastmod>2015-08-05T12:17:44-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/prisacariu_reid_imavis2012_draft.pdf</loc>
+<lastmod>2015-08-05T12:17:44-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/prisacariu_reid_tr2310_09.pdf</loc>
+<lastmod>2015-08-05T12:17:44-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/reco3d_ismar.pdf</loc>
+<lastmod>2015-08-05T12:17:44-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/reco3d_tvcg.pdf</loc>
+<lastmod>2015-08-05T12:17:44-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/ren_3dv_2014.pdf</loc>
+<lastmod>2015-08-05T12:17:44-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/ren_ijcv_2014.pdf</loc>
+<lastmod>2015-08-05T12:17:44-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/thesis.pdf</loc>
+<lastmod>2015-08-05T12:17:44-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/www10.pdf</loc>
+<lastmod>2015-08-05T13:06:51-07:00</lastmod>
+</url>
 </urlset>
