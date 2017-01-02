@@ -38,7 +38,7 @@ Publications
 See my list of publications in [**Google scholar**](https://scholar.google.co.uk/citations?user=Mf6PAuQAAAAJ&hl=en).
 
 - **Implicit Shape Representation for Efficient 2D/3D Tracking and Reconstruction**  
-*Oxford DPhil Thesis*
+*Oxford DPhil Thesis*  
 [[pdf]](pdfs/thesis.pdf)
 [[Oxford Archive]](http://ora.ox.ac.uk/objects/uuid:c70dc663-ee7c-4100-b492-3a85bf8640d1)
 
