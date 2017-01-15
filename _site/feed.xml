@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-15T13:29:41-08:00</updated><id>http://localhost:4000//</id><author><name>Carl Yuheng Ren</name><email>ren@carlyuheng.com</email></author><entry><title type="html">2016 California Trip - 2016年末加州自驾游</title><link href="http://localhost:4000/life/2017/01/15/2016-california-trip.html" rel="alternate" type="text/html" title="2016 California Trip - 2016年末加州自驾游" /><published>2017-01-15T00:00:00-08:00</published><updated>2017-01-15T00:00:00-08:00</updated><id>http://localhost:4000/life/2017/01/15/2016-california-trip</id><content type="html" xml:base="http://localhost:4000/life/2017/01/15/2016-california-trip.html">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-15T13:36:54-08:00</updated><id>http://localhost:4000//</id><author><name>Carl Yuheng Ren</name><email>ren@carlyuheng.com</email></author><entry><title type="html">2016 California Trip - 2016年末加州自驾游</title><link href="http://localhost:4000/life/2017/01/15/2016-california-trip.html" rel="alternate" type="text/html" title="2016 California Trip - 2016年末加州自驾游" /><published>2017-01-15T00:00:00-08:00</published><updated>2017-01-15T00:00:00-08:00</updated><id>http://localhost:4000/life/2017/01/15/2016-california-trip</id><content type="html" xml:base="http://localhost:4000/life/2017/01/15/2016-california-trip.html">&lt;ul&gt;
   &lt;li&gt;San Francisco&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;figure&gt;
   
-&lt;img src=&quot;http://localhost:4000/post_pics/2016_CA/SF/SF_cable_car.jpg&quot; alt=&quot;Foo&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/post_pics/SF_cable_car.jpg&quot; alt=&quot;Foo&quot; /&gt;
 
   &lt;figcaption&gt;Cable car in San Francisco.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
   
-&lt;img src=&quot;http://localhost:4000/post_pics/2016_CA/SF/SF_ggb.jpg&quot; alt=&quot;Foo&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/post_pics/SF_ggb.jpg&quot; alt=&quot;Foo&quot; /&gt;
 
   &lt;figcaption&gt;Janna dress-clashing with the gentleman behind.&lt;/figcaption&gt;
 &lt;/figure&gt;

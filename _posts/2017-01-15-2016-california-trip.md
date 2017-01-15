@@ -8,7 +8,7 @@ tags:
 - San Francisco
 
 {% capture fig_img1 %}
-![Foo]({{ "/post_pics/2016_CA/SF/SF_cable_car.jpg" | absolute_url }})
+![Foo]({{ "/post_pics/SF_cable_car.jpg" | absolute_url }})
 {% endcapture %}
 <figure>
   {{ fig_img1 | markdownify | remove: "<p>" | remove: "</p>" }}
@@ -16,7 +16,7 @@ tags:
 </figure>
 
 {% capture fig_img2 %}
-![Foo]({{ "/post_pics/2016_CA/SF/SF_ggb.jpg" | absolute_url }})
+![Foo]({{ "/post_pics/SF_ggb.jpg" | absolute_url }})
 {% endcapture %}
 <figure>
   {{ fig_img2 | markdownify | remove: "<p>" | remove: "</p>" }}
