@@ -19,7 +19,7 @@ Contact:
 
 News
 ====
-- **July. 2018**: We are hiring in FRL! Multiple positions opening, [CV Research Engineer, PhD](https://www.facebook.com/careers/jobs/a0I1H00000LJm3MUAT), [MP Research Engineer, PhD](https://www.facebook.com/careers/jobs/a0I1H00000Mp4fLUAR/), [Software Engineer, Industry](https://www.facebook.com/careers/jobs/a0I1H00000MozpQUAR/)
+- **July. 2018**: We are hiring in FRL! Multiple positions opening, [CV Research Engineer - PhD](https://www.facebook.com/careers/jobs/a0I1H00000LJm3MUAT), [MP Research Engineer - PhD](https://www.facebook.com/careers/jobs/a0I1H00000Mp4fLUAR/), [Software Engineer - Industry](https://www.facebook.com/careers/jobs/a0I1H00000MozpQUAR/)
 - **Nov. 2016**: Our paper *"Real-time Full DoF Tracking Using 3D Signed Distance Functions"* got accepted by IJCV.  
 - **Aug. 2015**: LibISR: real-time 3D model-based tracking, has a public release now on [GitHub](https://github.com/carlren/LibISR).  
 - **July. 2015**: Our paper *"Very High Frame Rate Volumetric Integration of Depth Images on Mobile Devices"* got accepted by ISMAR 2015.  
